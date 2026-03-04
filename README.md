@@ -1,3 +1,5 @@
+![Hello GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl5cG54ZnZxYjc0aXl3ZWNxc3N0MDVrNTI4MDc2NDR6MW51YnU5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif)
+
 # 👋 Hi, I'm Rayyan Azmat!
 
 ![Profile Banner](https://img.shields.io/badge/AI%20%7C%20Gen%20AI%20%7C%20Full-Stack%20Developer-000000?style=for-the-badge&logo=code&logoColor=white)

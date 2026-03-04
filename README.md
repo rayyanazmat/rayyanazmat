@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rayyan Azmat!
 
 ![Profile Banner](https://img.shields.io/badge/AI%20%7C%20Gen%20AI%20%7C%20Full-Stack%20Developer-000000?style=for-the-badge&logo=code&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rayyan-azmat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rayyanazmat)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:rayyanazmat722@gmail.com)
 
 Final-year Computer Science student at FAST NUCES, Islamabad. Passionate about building cutting-edge AI solutions, generative models, and scalable full-stack applications. Proficient in Python, PyTorch, FastAPI, React, Docker, and DevOps. Google Artificial Intelligence Essentials certified. Seeking opportunities in AI Engineering, Generative AI, or Full-Stack roles—let's collaborate on innovative projects!

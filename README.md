@@ -75,8 +75,3 @@ If you like my projects, consider buying me a coffee!
 "AI isn't about replacing humans—it's about augmenting our creativity!" 🚀
 
 ---
-
-This README was generated with [GPRM](https://gprm.itsvg.in/) and customized for maximum impact. Copy-paste this into your `rayyanazmat/README.md` repo on GitHub. To make it even flashier:
-- Update with real repo links and YouTube demo IDs once created/uploaded.
-- Commit regularly to boost stats.
-This profile emphasizes your skills from the CV (e.g., FastAPI, Docker, Python, DevOps, NLP via AI cert) with AI-focused projects to attract hiring managers in AI/Gen AI/Full-Stack roles! Good luck. If you need more tweaks, let me know.

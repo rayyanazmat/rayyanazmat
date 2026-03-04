@@ -7,7 +7,7 @@ Final-year Computer Science student at FAST NUCES, Islamabad. Passionate about b
 ![Hello GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc1eDMyZWs2NmpxOWdodWh1cXN2bW00bHpjZ2hhajI3dHJnNmFrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif)
 ![Hello GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZoZDZxdnQyMm4xcTM0eHhxbGJ1MzFiYXUxY3IzYzQwejNrbzR3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d8KefZiJ2ae0VMAmsi/giphy.gif)
 ![Hello GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl5cG54ZnZxYjc0aXl3ZWNxc3N0MDVrNTI4MDc2NDR6MW51YnU5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif)
-![Hello GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazR0YXVmMTB4YXlwbHp6dzQ0ZDVoaGtvdzQyYnZtMmNsaHF6ZTlpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif)
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rayyan-azmat)
@@ -82,6 +82,7 @@ Here are 10 projects highlighting my skills in AI, generative AI, full-stack dev
 ![Bye GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxoaG55bXhqNHkxZzlsazVya2lmMnA4dWprZ3M0bzYwazk3aDg4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WqAmhI3x0bN3IP1fS1/giphy.gif)
 ![Bye GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q5dXlxdXZvZms1cWlyb3lrOWNrNmY3ZzJ6bWZ0ZDVkeXNhcXQ0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kg4yoaDX9TEZraB4qb/giphy.gif)
 ![Bye GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB0cHppMDk1ODRnbG91ZDd5ZHhrMzdrZ3dyeGtxZXRzdTV5cjM1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X7Bckr1JaJS1opWTzO/giphy.gif)
+![Hello GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazR0YXVmMTB4YXlwbHp6dzQ0ZDVoaGtvdzQyYnZtMmNsaHF6ZTlpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif)
 
 ---
 

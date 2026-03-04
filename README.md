@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Rayyan Azmat!
 
 ![Profile Banner](https://img.shields.io/badge/AI%20%7C%20Gen%20AI%20%7C%20Full-Stack%20Developer-000000?style=for-the-badge&logo=code&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rayyan-azmat)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:rayyanazmat722@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat&logo=googlechrome)](https://rayyanazmat.github.io) <
 
 Final-year Computer Science student at FAST NUCES, Islamabad. Passionate about building cutting-edge AI solutions, generative models, and scalable full-stack applications. Proficient in Python, PyTorch, FastAPI, React, Docker, and DevOps. Google Artificial Intelligence Essentials certified. Seeking opportunities in AI Engineering, Generative AI, or Full-Stack roles—let's collaborate on innovative projects!
 
 ![Hello GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc1eDMyZWs2NmpxOWdodWh1cXN2bW00bHpjZ2hhajI3dHJnNmFrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif)
 ![Hello GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZoZDZxdnQyMm4xcTM0eHhxbGJ1MzFiYXUxY3IzYzQwejNrbzR3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d8KefZiJ2ae0VMAmsi/giphy.gif)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rayyan-azmat)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:rayyanazmat722@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat&logo=googlechrome)](https://rayyanazmat.github.io) <!-- Add your portfolio if exists -->
 
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat&logo=python)

@@ -26,7 +26,9 @@ Final-year Computer Science student at FAST NUCES, Islamabad. Passionate about b
 
 ## 📊 GitHub Stats
 ![Rayyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayyanazmat&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanazmat&layout=compact&theme=radical&hide_border=true)
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rayyanazmat&theme=radical&hide_border=true)
 
 ## 🏆 GitHub Trophies
@@ -69,9 +71,6 @@ Here are 10 projects highlighting my skills in AI, generative AI, full-stack dev
 ## 📈 Profile Visitors
 ![Profile Views](https://komarev.com/ghpvc/?username=rayyanazmat&color=brightgreen&style=flat)
 
-## ☕ Support My Work
-If you like my projects, consider buying me a coffee!  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow?style=flat&logo=buymeacoffee)](https://www.buymeacoffee.com/rayyanazmat) <!-- Set up if desired -->
 
 ## 🎉 Fun Fact
 "AI isn't about replacing humans—it's about augmenting our creativity!" 🚀

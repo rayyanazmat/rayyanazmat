@@ -74,6 +74,12 @@ Here are 10 projects highlighting my skills in AI, generative AI, full-stack dev
 ## 🎉 Fun Fact
 "AI isn't about replacing humans—it's about augmenting our creativity!" 🚀
 
----
+
+![Bye GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxoaG55bXhqNHkxZzlsazVya2lmMnA4dWprZ3M0bzYwazk3aDg4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WqAmhI3x0bN3IP1fS1/giphy.gif)
+
+![Bye GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q5dXlxdXZvZms1cWlyb3lrOWNrNmY3ZzJ6bWZ0ZDVkeXNhcXQ0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kg4yoaDX9TEZraB4qb/giphy.gif)
 
 ![Bye GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB0cHppMDk1ODRnbG91ZDd5ZHhrMzdrZ3dyeGtxZXRzdTV5cjM1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X7Bckr1JaJS1opWTzO/giphy.gif)
+
+---
+

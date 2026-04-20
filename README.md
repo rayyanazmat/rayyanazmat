@@ -6,7 +6,7 @@
 
 Final-year Computer Science student at FAST NUCES, Islamabad. Passionate about building cutting-edge AI solutions, generative models, and scalable full-stack applications. Proficient in Python, PyTorch, FastAPI, React, Docker, and DevOps. Google Artificial Intelligence Essentials certified. Seeking opportunities in AI Engineering, Generative AI, or Full-Stack roles—let's collaborate on innovative projects!
 
-![Hello GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc1eDMyZWs2NmpxOWdodWh1cXN2bW00bHpjZ2hhajI3dHJnNmFrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif)
+![Hello GIF](panda.gif)
 ![Hello GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZoZDZxdnQyMm4xcTM0eHhxbGJ1MzFiYXUxY3IzYzQwejNrbzR3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d8KefZiJ2ae0VMAmsi/giphy.gif)
 
 ## 🚀 Tech Stack

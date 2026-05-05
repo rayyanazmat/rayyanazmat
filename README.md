@@ -33,7 +33,7 @@ Final-year Computer Science student at FAST NUCES, Islamabad. Passionate about b
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rayyanazmat&theme=radical&no-frame=true&margin-w=15&margin-h=15)
 
 ## 🌟 Featured Projects
-Here are 10 projects highlighting my skills in AI, generative AI, full-stack development, DevOps, Python, FastAPI, Docker, databases, and more. These showcase real-world problem-solving, optimization, and innovation. (I'll create the repos soon—stay tuned!)
+Here are 10 future projects highlighting my skills in AI, generative AI, full-stack development, DevOps, Python, FastAPI, Docker, databases, and more. These showcase real-world problem-solving, optimization, and innovation. (I'll create the repos soon—stay tuned!)
 
 1. **[GenAI Chatbot with LLM Fine-Tuning](https://github.com/rayyanazmat/genai-chatbot)**  
    Developed a conversational AI using PyTorch to fine-tune Hugging Face LLMs for NLP tasks, with FastAPI backend for real-time inference and React frontend. Reduced response latency by 25% via GPU optimization (CUDA) and integrated JWT for secure authentication. Deployed with Docker and Kubernetes.  
